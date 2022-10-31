@@ -1,1 +1,1 @@
-const i="/admin/images/time-icon.png";export{i as _};
+const i="/images/time-icon.png";export{i as _};

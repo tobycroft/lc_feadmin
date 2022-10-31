@@ -1,1 +1,1 @@
-const e="/admin/images/delete-icon.png";export{e as _};
+const e="/images/delete-icon.png";export{e as _};
